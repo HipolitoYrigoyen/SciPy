@@ -20,7 +20,7 @@ Son **medidas estadísticas** que te ayudan a resumir un conjunto de números.
 - Es el número que queda justo en el medio cuando los números están ordenados.  
 - **Ejemplo**:  
   - Si tienes los números `3, 7, 9`, la mediana es **7** (porque está en el centro).  
-  - Si hay dos números en el medio (por ejemplo, `2, 4, 6, 8`), calculas el promedio de ellos: 4+6 / 2 = 5
+  - Si hay dos números en el medio (por ejemplo, `2, 4, 6, 8`, calculas el promedio de ellos: 4+6 / 2 = 5
 
 ### 3. 🔢 **Moda**:  
 - Es el número que aparece más veces.  
